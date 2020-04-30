@@ -21,7 +21,7 @@
     "gulp-autoprefixer": "^6.1.0",
     "gulp-imagemin": "^6.0.0",
     "gulp-sass": "^4.0.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.12.0",
     "popper.js": "^1.15.0"
   }
